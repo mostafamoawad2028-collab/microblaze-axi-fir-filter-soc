@@ -1,6 +1,4 @@
-تفضل كود ملف **`README.md`** كاملاً ومصلحاً بنسبة 100% مع ضبط التنسيق وإغلاق بلوك المجلدات، انسخه دفعة واحدة وضعه في محرر GitHub:
 
-```markdown
 # 16-Tap FIR Low-Pass Filter: From MATLAB to MicroBlaze SoC HW/SW Co-Design
 
 A complete, production-grade **16-Tap FIR Low-Pass Filter** design pipeline targeted for AMD/Xilinx FPGA platforms using Vivado. The project transitions from MATLAB architectural fixed-point modeling to pure Verilog RTL logic, packaged as a reusable **AXI-mapped IP Core** for Hardware-Software Co-design on a **MicroBlaze Soft-Core Processor**.
